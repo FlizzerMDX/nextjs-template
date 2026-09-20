@@ -1,7 +1,7 @@
 CURRENT_DIR := $(shell pwd)
 TARGET_DIR  := ../flizzermdx-nextjs-template-gitless/
 
-.SILENT:
+# .SILENT:
 
 help:
 	echo "init for "
